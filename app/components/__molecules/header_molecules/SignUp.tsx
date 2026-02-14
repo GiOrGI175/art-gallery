@@ -6,9 +6,11 @@ import useAppBtn from '@/app/commons/hooks/setStore';
 import { useTranslation } from 'react-i18next';
 import { motion, AnimatePresence } from 'framer-motion';
 import i18next from '@/app/i18n/i18next';
+import { useState } from 'react';
+import SellerForm from '../../__atoms/header_atoms/SellerForm';
 
 const SignUp = () => {
-  // const [whichUser, setWichUser] = useState(true);
+  const [whichUser, setWichUser] = useState(true);
 
   const toggleSignUp = useAppBtn((state) => state.toggleSignUp);
   const toggleOverlay = useAppBtn((state) => state.toggleOverlay);
@@ -48,7 +50,7 @@ const SignUp = () => {
           <Image src='/close.svg' width={17} height={17} alt='Close' />
         </button>
       </div>
-      {/* <div className='mb-[40px] flex rounded-[4px] border-[1px] border-[#D04175] overflow-hidden'>
+      <div className='mb-[40px] flex rounded-[4px] border-[1px] border-[#D04175] overflow-hidden'>
         <button
           className={`flex justify-center items-center flex-1 h-[38px]  ${
             whichUser ? 'bg-[#D04175] rounded-r-[4px]' : ''
@@ -91,9 +93,9 @@ const SignUp = () => {
             </motion.span>
           </AnimatePresence>
         </button>
-      </div> */}
-      {/* {whichUser && <BuyerForm />}
-      {!whichUser && <SellerForm />} */}
+      </div>
+      {whichUser && <BuyerForm />}
+      {!whichUser && <SellerForm />}
       <BuyerForm />
     </div>
   );
