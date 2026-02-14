@@ -1,0 +1,96 @@
+{
+  "title": "Privacy Policy",
+  "sections": [
+    {
+      "title": "1. Information We Collect",
+      "content": [
+        {
+          "subtitle": "1.1. Personal Information",
+          "text": "We collect personal information you provide directly to us when you:",
+          "list": [
+            "Create an account",
+            "Make a purchase",
+            "Subscribe to our newsletter",
+            "Contact us via email or through the website"
+          ],
+          "extra": "This information may include your name, email address, billing and shipping addresses, payment details, phone number, and any other information you choose to provide."
+        },
+        {
+          "subtitle": "1.2. Automatically Collected Information",
+          "text": "When you visit our website, we may automatically collect certain information, such as:",
+          "list": [
+            "Your IP address",
+            "Browser type and version",
+            "Device type and operating system",
+            "Referring website URLs",
+            "Pages viewed and actions taken on our website",
+            "Date and time of your visit"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. How We Use Your Information",
+      "list": [
+        "Process and fulfil your orders, including payment processing and delivery.",
+        "Provide customer support.",
+        "Send transactional communications, such as order confirmations.",
+        "Personalize your experience on our website.",
+        "Send promotional emails (if you have opted in).",
+        "Improve our website and services."
+      ]
+    },
+    {
+      "title": "3. How We Share Your Information",
+      "content": [
+        {
+          "subtitle": "3.1. Service Providers",
+          "text": "We may share your information with trusted third-party vendors who perform services on our behalf, such as payment processors, shipping companies, and website analytics providers."
+        },
+        {
+          "subtitle": "3.2. Legal Compliance",
+          "text": "We may disclose your information if required to do so by law or in response to valid legal requests."
+        },
+        {
+          "subtitle": "3.3. Business Transfers",
+          "text": "In the event of a merger, acquisition, or sale of our business, your information may be transferred as part of the transaction."
+        }
+      ]
+    },
+    {
+      "title": "4. Data Retention",
+      "text": "We will retain your personal information for as long as necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law."
+    },
+    {
+      "title": "5. Your Rights",
+      "text": "Depending on your jurisdiction, you may have the following rights regarding your personal information:",
+      "list": [
+        "Access: Request access to the personal information we hold about you.",
+        "Correction: Request corrections to any inaccurate or incomplete information.",
+        "Deletion: Request the deletion of your personal information.",
+        "Opt-out: Opt-out of receiving promotional communications."
+      ],
+      "extra": "To exercise your rights, please contact us at kacharava.tamari12@gmail.com."
+    },
+    {
+      "title": "6. Security",
+      "text": "We implement reasonable security measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the Internet or electronic storage is 100% secure."
+    },
+    {
+      "title": "7. Children's Privacy",
+      "text": "TATTAK ART GALLERY is not intended for individuals under the age of 18. We do not knowingly collect personal information from children without parental consent. If you believe we have collected information from a child, please contact us to have it removed."
+    },
+    {
+      "title": "8. Third-Party Links",
+      "text": "Our website may contain links to third-party websites. We are not responsible for the privacy practices of these websites. We encourage you to read their privacy policies before providing any personal information."
+    },
+    {
+      "title": "9. Changes to This Privacy Policy",
+      "text": "We reserve the right to update this Privacy Policy at any time. Any changes will be posted on this page with the 'Last Updated' date. Your continued use of our website after changes are made signifies your acceptance of the updated policy."
+    },
+    {
+      "title": "10. Contact Us",
+      "text": "If you have any questions or concerns about this Privacy Policy, please contact us at: Email: kacharava.tamari12@gmail.com Address: Tbilisi, Georgia"
+    }
+  ]
+}
